@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36603.0 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "antilatency-getter", "antilatency-getter\antilatency-getter.csproj", "{C563A3E6-59C8-48D0-874B-90E24E823AE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C563A3E6-59C8-48D0-874B-90E24E823AE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C563A3E6-59C8-48D0-874B-90E24E823AE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C563A3E6-59C8-48D0-874B-90E24E823AE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C563A3E6-59C8-48D0-874B-90E24E823AE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90298A75-AC49-4207-85A3-DBBE6DE48A47}
+	EndGlobalSection
+EndGlobal
